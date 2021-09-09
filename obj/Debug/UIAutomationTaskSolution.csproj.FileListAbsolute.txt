@@ -1,0 +1,6 @@
+D:\UIAutomationTaskSolution\bin\Debug\UIAutomationTaskSolution.exe
+D:\UIAutomationTaskSolution\bin\Debug\UIAutomationTaskSolution.pdb
+D:\UIAutomationTaskSolution\obj\Debug\UIAutomationTaskSolution.csprojAssemblyReference.cache
+D:\UIAutomationTaskSolution\obj\Debug\UIAutomationTaskSolution.csproj.CoreCompileInputs.cache
+D:\UIAutomationTaskSolution\obj\Debug\UIAutomationTaskSolution.exe
+D:\UIAutomationTaskSolution\obj\Debug\UIAutomationTaskSolution.pdb
